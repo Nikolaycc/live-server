@@ -4,15 +4,17 @@ This is a little development server
 
 ## Installation
 
-TODO: Write installation instructions here
+```bash
+$ git clone https://github.com/NikolayKYS/live-server.git
+$ cd live-server/bin
+$ ./install.sh
+```
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+```bash
+$ live-server [file] [-P port (default :8000)]
+```
 
 ## Contributing
 
