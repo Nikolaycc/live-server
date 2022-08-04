@@ -6,7 +6,7 @@ This is a little development server
 
 ```bash
 $ git clone https://github.com/NikolayKYS/live-server.git
-$ cd live-server/bin
+$ cd live-server
 $ chmod +x install.sh
 $ ./install.sh
 ```
