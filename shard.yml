@@ -1,0 +1,17 @@
+name: live-server
+version: 0.1.0
+
+authors:
+  - NikolayKYS <lukaggt2003@gmail.com>
+
+dependencies:
+  logger:
+    github: crystal-lang/logger.cr
+
+targets:
+  live-server:
+    main: src/live-server.cr
+
+crystal: 1.5.0
+
+license: MIT
