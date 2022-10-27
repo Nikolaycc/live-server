@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 sudo cp live-server /bin/
 
